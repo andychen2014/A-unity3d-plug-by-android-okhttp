@@ -29,6 +29,8 @@ public class MainPresenter extends RxPresenter<MainContract.View> implements  Ma
         mContext = context;
         apiServer = HttpMethods.getInstance(mContext).create(ApiServer.class);
 
+        Log.d("ok","ok");
+
     }
 
     @Override
