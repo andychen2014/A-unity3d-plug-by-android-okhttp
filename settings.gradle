@@ -1,0 +1,4 @@
+rootProject.name='U3dAndroidPlug'
+include ':app'
+include ':demosdk'
+include ':httpsdk'

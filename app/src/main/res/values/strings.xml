@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">U3dAndroidPlug</string>
+
+        <string name="ble_jump_title">跳绳Demo</string>
+        <string name="ble_name">蓝牙</string>
+        <string name="ble_search">查找设备 </string>
+        <string name ="ble_connect">连接</string>
+        <string name="ble_disconnect">断开</string>
+
+        <string name="ble_jump_timer">定时跳</string>
+        <string name="ble_jump_timer_start">开始定时</string>
+
+        <!--扫描蓝牙-->
+
+        <string name="please_open_blue">please open bluetooth</string>
+        <string name="notifyTitle">notice</string>
+        <string name="gpsNotifyMsg">Location permission is required to continue.Please turn on under Settings.</string>
+        <string name="setting">Setting</string>
+        <string name="cancel">Cancel</string>
+
+
+        <string name="ble_jump_count">次数跳</string>
+        <string name="ble_jump_count_start">设定次数</string>
+        <string name="ble_jump_free">自由跳</string>
+
+        <string name="ble_jump_free_start">开始计时</string>
+        <string name="ble_jump_clean">清空</string>
+
+        <string name="channel_connected_devices_title">Background connections</string>
+        <string name="channel_connected_devices_description">Shows a notification when a device is connected in background.</string>
+        <string name="channel_files_title">Files</string>
+        <string name="channel_files_description">Shows notifications when new files has been saved.</string>
+        <string name="channel_proximity_warnings_title">Proximity warnings</string>
+        <string name="channel_proximity_warnings_description">Shows notifications when a proximity device got out of range.</string>
+
+
+        <string name="game_view_content_description">Game view</string>
+
+
+
+</resources>
